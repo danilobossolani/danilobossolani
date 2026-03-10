@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Danilo</h1>
+<h3 align="center">Estudante de ADS | Desenvolvedor Java</h3>
 
-<!--
-**danilobossolani/danilobossolani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Aprendendo Java, SQL e Estrutura de Dados, Python, HTML5, CSS & JavaScript
+- 📚 Faculdade: FACENS
+- 🔥 Objetivo: Desenvolvedor Backend
+
+---
+
+### 🛠️ Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📊 Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danilobossolani&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilobossolani&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Contato
+
+📧 danbossolani@gmail.com
