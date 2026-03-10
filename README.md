@@ -1,29 +1,43 @@
 <h1 align="center">👋 Olá, eu sou Danilo Bossolani</h1>
 
 <h3 align="center">
-Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor em formação
+Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor Java
 </h3>
 
 <p align="center">
-Focado em desenvolvimento de software, dados e soluções tecnológicas.
-Buscando oportunidades de estágio para aplicar conhecimentos e crescer na área de tecnologia.
+Apaixonado por tecnologia, desenvolvimento de software e resolução de problemas através da programação.
 </p>
 
 ---
 
 # 🚀 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Interesse em **Desenvolvimento Backend e Dados**  
-📚 Estudando **Estrutura de Dados, Algoritmos e Banco de Dados**  
-⚡ Sempre evoluindo e construindo novos projetos  
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado principalmente em **desenvolvimento com Java** e construção de soluções utilizando programação e banco de dados.
+
+Tenho interesse em **desenvolvimento backend, lógica de programação e análise de dados**, sempre buscando aprender novas tecnologias e melhorar minhas habilidades técnicas.
+
+Atualmente estudo e desenvolvo projetos utilizando **Java, Python, HTML, CSS, JavaScript e bancos de dados como MySQL**, além de trabalhar com **visualização de dados no Power BI**.
+
+Estou em busca de **oportunidades de estágio na área de tecnologia**, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir como desenvolvedor.
+
+---
+
+# ☕ Principal Linguagem
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java" height="70"/>
+</p>
+
+<p align="center">
+Java é atualmente a linguagem em que possuo mais experiência e onde concentro grande parte dos meus estudos e projetos.
+</p>
 
 ---
 
 # 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode" />
 </p>
 
 <p align="center">
@@ -31,13 +45,13 @@ Buscando oportunidades de estágio para aplicar conhecimentos e crescer na área
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### Principais conhecimentos
+### Conhecimentos
 
+- **Java (principal linguagem)**
+- **Python**
 - **HTML / HTML5**
 - **CSS**
 - **JavaScript**
-- **Java**
-- **Python**
 - **MySQL**
 - **Git e GitHub**
 - **Power BI**
@@ -53,7 +67,7 @@ Buscando oportunidades de estágio para aplicar conhecimentos e crescer na área
 
 ---
 
-# 🔥 Atividade no GitHub
+# 🔥 Atividade
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilobossolani&theme=tokyonight"/>
@@ -75,5 +89,5 @@ assalt15
 ---
 
 <p align="center">
-⭐ Construindo projetos, aprendendo novas tecnologias e evoluindo na área de desenvolvimento.
+⭐ Sempre aprendendo, desenvolvendo projetos e evoluindo na área de tecnologia.
 </p>
