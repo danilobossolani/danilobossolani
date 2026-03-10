@@ -1,40 +1,53 @@
 <h1 align="center">👋 Olá, eu sou Danilo Bossolani</h1>
 
 <h3 align="center">
-Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor Java
+Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor Java em formação
 </h3>
 
 <p align="center">
 Apaixonado por tecnologia, desenvolvimento de software e resolução de problemas através da programação.
 </p>
 
----
-
-# 🚀 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado principalmente em **desenvolvimento com Java** e construção de soluções utilizando programação e banco de dados.
-
-Tenho interesse em **desenvolvimento backend, lógica de programação e análise de dados**, sempre buscando aprender novas tecnologias e melhorar minhas habilidades técnicas.
-
-Atualmente estudo e desenvolvo projetos utilizando **Java, Python, HTML, CSS, JavaScript e bancos de dados como MySQL**, além de trabalhar com **visualização de dados no Power BI**.
-
-Estou em busca de **oportunidades de estágio na área de tecnologia**, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir como desenvolvedor.
-
----
-
-# ☕ Principal Linguagem
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java" height="70"/>
-</p>
-
-<p align="center">
-Java é atualmente a linguagem em que possuo mais experiência e onde concentro grande parte dos meus estudos e projetos.
+💼 <a href="https://linkedin.com/in/danilobossolani">LinkedIn</a> • 
+🎮 Discord: assalt15
 </p>
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+<h2 align="center">🚀 Sobre mim</h2>
+
+<p align="center">
+Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> com foco em <b>desenvolvimento utilizando Java</b>.
+</p>
+
+<p align="center">
+Tenho grande interesse em <b>desenvolvimento backend, lógica de programação e banco de dados</b>.
+</p>
+
+<p align="center">
+Atualmente estou estudando e desenvolvendo projetos utilizando <b>Java como principal linguagem</b>, além de aprender tecnologias como <b>Python, HTML, CSS, JavaScript, MySQL e Power BI</b>.
+</p>
+
+<p align="center">
+Estou em busca de uma <b>oportunidade de estágio em tecnologia</b> para aplicar meus conhecimentos e evoluir profissionalmente.
+</p>
+
+---
+
+<h2 align="center">☕ Principal Linguagem</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java" height="85"/>
+</p>
+
+<p align="center">
+<b>Java</b> é atualmente a linguagem em que concentro a maior parte dos meus estudos e projetos.
+</p>
+
+---
+
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode" />
@@ -45,20 +58,26 @@ Java é atualmente a linguagem em que possuo mais experiência e onde concentro 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-### Conhecimentos
+---
 
-- **Java (principal linguagem)**
-- **Python**
-- **HTML / HTML5**
-- **CSS**
-- **JavaScript**
-- **MySQL**
-- **Git e GitHub**
-- **Power BI**
+<h2 align="center">📚 Áreas de Estudo</h2>
+
+<p align="center">
+
+☕ <b>Java (principal foco de estudo)</b><br><br>
+🐍 Python<br><br>
+🌐 HTML / HTML5<br><br>
+🎨 CSS<br><br>
+⚡ JavaScript<br><br>
+🗄️ MySQL<br><br>
+📊 Power BI<br><br>
+🔧 Git e GitHub
+
+</p>
 
 ---
 
-# 📊 Estatísticas do GitHub
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danilobossolani&show_icons=true&theme=tokyonight"/>
@@ -67,7 +86,7 @@ Java é atualmente a linguagem em que possuo mais experiência e onde concentro 
 
 ---
 
-# 🔥 Atividade
+<h2 align="center">🔥 Atividade no GitHub</h2>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilobossolani&theme=tokyonight"/>
@@ -75,19 +94,26 @@ Java é atualmente a linguagem em que possuo mais experiência e onde concentro 
 
 ---
 
-# 📫 Contato
+<h2 align="center">📫 Contato</h2>
 
-📧 Email  
+<p align="center">
+
+📧 Email<br>
 danbossolani
 
-💼 LinkedIn  
-https://linkedin.com/in/danilobossolani
+<br>
 
-🎮 Discord  
+💼 LinkedIn<br> <a href="https://linkedin.com/in/danilobossolani">linkedin.com/in/danilobossolani</a>
+
+<br>
+
+🎮 Discord<br>
 assalt15
+
+</p>
 
 ---
 
 <p align="center">
-⭐ Sempre aprendendo, desenvolvendo projetos e evoluindo na área de tecnologia.
+⭐ Sempre aprendendo novas tecnologias, desenvolvendo projetos e evoluindo na área de tecnologia.
 </p>
