@@ -99,7 +99,7 @@ Estou em busca de uma <b>oportunidade de estágio em tecnologia</b> para aplicar
 <p align="center">
 
 📧 Email<br>
-danbossolani
+danbossolani@gmail.com
 
 <br>
 
