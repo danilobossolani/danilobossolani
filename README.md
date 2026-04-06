@@ -61,7 +61,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas focado em me tornar um d
 ## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danilobossolani&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=danilobossolani&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=danilobossolani&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
