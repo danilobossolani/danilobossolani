@@ -1,118 +1,72 @@
 <h1 align="center">👋 Olá, eu sou Danilo Bossolani</h1>
 
-<h3 align="center">
-Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvedor Java em formação
-</h3>
-
 <p align="center">
-Apaixonado por tecnologia, desenvolvimento de software e resolução de problemas através da programação.
-</p>
-
-<p align="center">
-💼 <a href="https://linkedin.com/in/danilobossolani">LinkedIn</a> • 
-🎮 Discord: assalt15
+  💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
+  🚀 Focado em Java, lógica e desenvolvimento back-end <br>
+  📍 Sorocaba - SP
 </p>
 
 ---
 
-<h2 align="center">🚀 Sobre mim</h2>
+## 🚀 Sobre mim
 
-<p align="center">
-Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> com foco em <b>desenvolvimento utilizando Java</b>.
-</p>
-
-<p align="center">
-Tenho grande interesse em <b>desenvolvimento backend, lógica de programação e banco de dados</b>.
-</p>
-
-<p align="center">
-Atualmente estou estudando e desenvolvendo projetos utilizando <b>Java como principal linguagem</b>, além de aprender tecnologias como <b>Python, HTML, CSS, JavaScript, MySQL e Power BI</b>.
-</p>
-
-<p align="center">
-Estou em busca de uma <b>oportunidade de estágio em tecnologia</b> para aplicar meus conhecimentos e evoluir profissionalmente.
-</p>
+* 🎓 Estudante de ADS na FACENS
+* 💡 Apaixonado por tecnologia e evolução constante
+* 📚 Atualmente estudando: Java, estruturas de dados e lógica
+* 🎯 Objetivo: me tornar um desenvolvedor completo e trabalhar na área
 
 ---
 
-<h2 align="center">☕ Principal Linguagem</h2>
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java" height="85"/>
-</p>
-
-<p align="center">
-<b>Java</b> é atualmente a linguagem em que concentro a maior parte dos meus estudos e projetos.
-</p>
-
----
-
-<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
----
-
-<h2 align="center">📚 Áreas de Estudo</h2>
-
-<p align="center">
-
-☕ <b>Java (principal foco de estudo)</b><br><br>
-🐍 Python<br><br>
-🌐 HTML / HTML5<br><br>
-🎨 CSS<br><br>
-⚡ JavaScript<br><br>
-🗄️ MySQL<br><br>
-📊 Power BI<br><br>
-🔧 Git e GitHub
-
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode" />
 </p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=danilobossolani&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilobossolani&layout=compact&theme=tokyonight)
-
----
-
-<h2 align="center">🔥 Atividade no GitHub</h2>
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danilobossolani&theme=tokyonight"/>
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=danilobossolani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
+    height="180em"
+  />
 
----
-
-<h2 align="center">📫 Contato</h2>
-
-<p align="center">
-
-📧 Email<br>
-danbossolani@gmail.com
-
-<br>
-
-💼 LinkedIn<br> <a href="https://linkedin.com/in/danilobossolani">linkedin.com/in/danilobossolani</a>
-
-<br>
-
-🎮 Discord<br>
-assalt15
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobossolani&layout=compact&theme=tokyonight&cache_seconds=1800"
+ height="180em"
+/>
 
 </p>
 
 ---
 
+## 🔥 Streak (consistência)
+
 <p align="center">
-⭐ Sempre aprendendo novas tecnologias, desenvolvendo projetos e evoluindo na área de tecnologia.
+  <img src="https://streak-stats.demolab.com?user=danilobossolani&theme=tokyonight&cache_seconds=1800" />
 </p>
+
+---
+
+## 🧠 Em aprendizado
+
+* Estruturas de dados
+* Programação orientada a objetos
+* Algoritmos
+* Back-end com Java
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:danbossolani@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Danilo-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">🔥 "Consistência vence talento" 🔥</p>
