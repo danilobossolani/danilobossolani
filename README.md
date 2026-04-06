@@ -77,12 +77,11 @@ Estou em busca de uma <b>oportunidade de estágio em tecnologia</b> para aplicar
 
 ---
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=danilobossolani&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobossolani&layout=compact&theme=tokyonight"/>
-</p>
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=danilobossolani&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilobossolani&layout=compact&theme=tokyonight)
 
 ---
 
