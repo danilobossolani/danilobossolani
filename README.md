@@ -22,11 +22,3 @@ Gosto de aprender na prática e estou sempre em busca de novos desafios.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-
----
-
-### Git Status
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danilobossolani&show_icons=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=ffffff&bg_color=0d1117)](https://github.com/danilobossolani)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilobossolani&layout=compact&title_color=1F6FEB&text_color=ffffff&bg_color=0d1117)](https://github.com/danilobossolani)
