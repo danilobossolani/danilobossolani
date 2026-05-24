@@ -5,7 +5,7 @@
 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas** na **Faculdade de Engenharia de Sorocaba (FACENS)**.
 Tenho como objetivo me tornar um **Desenvolvedor Backend**, com interesse também em front-end.  
 Tenho me dedicado ao desenvolvimento utilizando **Java, JavaScript, HTML e CSS**, buscando construir uma base sólida e evoluir constantemente.
-Gosto de aprender na prática e estou sempre em busca de novos desafios.
+Gosto de aprender na prática e estou sempre em busca de novos desafios. 
 
 ---
 
