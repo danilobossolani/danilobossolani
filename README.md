@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1F6FEB&size=30&width=600&lines=Olá,+eu+sou+o+Danilo+Bossolani!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1F6FEB&size=30&width=600&lines=Danilo+Bossolani!)](https://git.io/typing-svg)
 
 ---
 
