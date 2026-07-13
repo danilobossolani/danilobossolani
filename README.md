@@ -2,11 +2,11 @@
 
 ---
 
-Full Stack Developer focused on building modern applications and scalable solutions.
+# Danilo Bossolani
 
-Passionate about creating end-to-end experiences, from intuitive user interfaces to robust backend services and data-driven systems.
+Full Stack Developer focused on building modern applications, scalable APIs and AI-powered solutions.
 
-Currently working with web technologies, APIs and AI-powered applications, with a growing interest in software architecture and intelligent systems.
+Interested in creating end-to-end experiences, from intuitive interfaces to backend services, intelligent retrieval systems and data-driven applications.
 
 ## Tech Stack
 
@@ -20,30 +20,41 @@ Currently working with web technologies, APIs and AI-powered applications, with 
 
 ### Backend
 
+* Node.js
 * TypeScript
 * Java
+* Express
 * REST APIs
 
 ### Database
 
 * PostgreSQL
 
-### Tools & Technologies
+### AI & Integrations
+
+* Gemini API
+* RAG (Retrieval-Augmented Generation)
+* LLM Integrations
+* Vector Search
+* AI-powered Applications
+
+### Tools
 
 * Git
 * GitHub
 * Power BI
 
-## Areas of Interest
+## Interests
 
 * Full Stack Development
 * API Design
-* Artificial Intelligence Integrations
-* Retrieval-Augmented Generation (RAG)
-* Scalable Web Applications
+* Artificial Intelligence
 * Software Architecture
+* Scalable Systems
 
 ## Contact
 
-📧 Email: `danbossolani@gmail.com`
-💼 LinkedIn: `danilobossolani`
+📧 `danbossolani@gmail.com`
+
+💼 LinkedIn
+`linkedin.com/in/danilobossolani`
