@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1F6FEB&size=30&width=600&lines=Danilo+Bossolani)](https://git.io/typing-svg)
 
 ---
-
-# Danilo Bossolani
-
 Full Stack Developer focused on building modern applications, scalable APIs and AI-powered solutions.
 
 Interested in creating end-to-end experiences, from intuitive interfaces to backend services, intelligent retrieval systems and data-driven applications.
