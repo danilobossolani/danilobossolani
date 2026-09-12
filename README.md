@@ -9,9 +9,10 @@ Interested in creating end-to-end experiences, from intuitive interfaces to back
 
 ### Frontend
 
-* React
 * TypeScript
 * JavaScript
+* React
+* Angular
 * HTML
 * CSS
 
