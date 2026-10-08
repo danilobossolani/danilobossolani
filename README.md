@@ -5,6 +5,8 @@ Full Stack Developer focused on building modern applications, scalable APIs and 
 
 Interested in creating end-to-end experiences, from intuitive interfaces to backend services, intelligent retrieval systems and data-driven applications.
 
+https://danilobossolani.github.io/
+
 ## Tech Stack
 
 ### Frontend
